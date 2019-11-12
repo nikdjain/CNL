@@ -1,0 +1,18 @@
+1)to write awk file refer my.awk file 
+
+
+2)to run an awk file type the following command on terminal:
+//COMMANDS//
+awk -f 'filename.awk' 'tracefile.tr'
+OR
+gawk -f 'filename.awk' 'tracefile.tr'
+
+3)and if you want to print all the output in another file u can use the following command:
+//COMMANDS//
+awk -f 'filename.awk' 'tracefile.tr' > output.txt
+OR
+gawk -f 'filename.awk' 'tracefile.tr' > output.txt
+
+NOTE:ignore the qoutes-" ' " used.
+NOTE:also check the screenshot if u dont understand this!!!!
+

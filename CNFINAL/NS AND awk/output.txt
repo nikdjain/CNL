@@ -1,0 +1,5 @@
+no of packets dropped is 19
+no of UDP packets dropped is 19
+no of TCP packets dropped is 0
+Total packets are 14879
+Throughput is 0
